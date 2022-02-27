@@ -8,7 +8,7 @@ This React-based web app allows users to login and logout of the application wit
 - HTML
 - Visual Studio Code
 
-## Concepts Implemented
+## Concepts Used
 - useEffect()
 - useReducer()
 - useContext()
