@@ -16,12 +16,17 @@ This React-based web app allows users to login and logout of the application wit
 
 ## Screenshots
 
-### UI
-![UI](https://user-images.githubusercontent.com/18711592/151718896-3d7fc66b-bbb4-4ed4-a2df-24306131cbc5.png)
+### Login
 
-### Add New Expense
+![Login](https://github.com/AshishSinghDeveloper/LoginPage/blob/master/src/Images/Login%20Page%20with%20Credentails.png)
 
-![Add Expense](https://user-images.githubusercontent.com/18711592/151719043-c912f1bb-2be4-46ca-872f-62c74e48c7ba.png)
+### Login with Validation
+
+![Validation](https://github.com/AshishSinghDeveloper/LoginPage/blob/master/src/Images/Login%20Page%20with%20validation.png)
+
+### Welcome Page
+
+[Welcome Page](https://github.com/AshishSinghDeveloper/LoginPage/blob/master/src/Images/Welcome%20Page.png)
 
 
 ### Reference
