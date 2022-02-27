@@ -26,7 +26,7 @@ This React-based web app allows users to login and logout of the application wit
 
 ### Welcome Page
 
-[Welcome_Page](https://github.com/AshishSinghDeveloper/LoginPage/blob/master/src/Images/Welcome%20Page.png)
+![Welcome_Page](https://github.com/AshishSinghDeveloper/LoginPage/blob/master/src/Images/Welcome%20Page.png)
 
 
 ### Reference
