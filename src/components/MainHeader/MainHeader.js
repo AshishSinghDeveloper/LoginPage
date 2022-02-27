@@ -8,7 +8,7 @@ const MainHeader = (props) => {
   const authCtx = useContext(AuthContext);
   return (
     <header className={classes['main-header']}>
-      <h1>A Typical Page</h1>
+      <h1>Login</h1>
       <Navigation onLogout={authCtx.onLogout} />
     </header>
   );
